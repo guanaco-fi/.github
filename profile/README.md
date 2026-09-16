@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://guanaco.fi">
-    <img src="https://guanaco.fi/logo-pink.svg" alt="guanaco.fi" width="180" height="180" style="background: transparent;">
-  </a>
-</p>
-
 <h1 align="center">guanaco.fi</h1>
 
 <p align="center">
